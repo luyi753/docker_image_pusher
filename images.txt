@@ -1,3 +1,2 @@
-mysql:5.7.10
 redis:latest
 mysql:latest
