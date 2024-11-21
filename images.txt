@@ -1,1 +1,2 @@
-mysql:5.7
+phpipam/phpipam-www:latest
+phpipam/phpipam-cron:latest
